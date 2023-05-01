@@ -26,3 +26,11 @@ While this project is mainly for educational purposes, suggestions and contribut
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Screenshots
+
+![Screenshot 1](screenshots/screenshot1.png)
+
+![Screenshot 2](screenshots/screenshot2.png)
+
+![Screenshot 3](screenshots/screenshot3.png)
